@@ -28,12 +28,12 @@ from matplotlib import colormaps
 from matplotlib.figure import Figure
 
 
-APP_NAME = "Research Plotter"
+APP_NAME = "NOMAD_Plot"
 VERSION = "0.1.0"
 
 INSTRUMENT_AUTO = "Auto-detect"
 INSTRUMENT_ARC = "Arc One"
-INSTRUMENT_KEYSIGHT = "Keysight / Generic CSV"
+INSTRUMENT_KEYSIGHT = "Keysight"
 
 TEST_IV = "Curve Tracer (I–V)"
 TEST_RETENTION = "Retention"
